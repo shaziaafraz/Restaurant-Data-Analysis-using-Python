@@ -37,6 +37,8 @@ Tool: Jupyter Notebook
 
 🌟 Key Highlights
 
-Data cleaning and transformation
-Data visualization and storytelling
+Data cleaning and transformation.
+
+Data visualization and storytelling.
+
 Actionable insights for business decision-making
