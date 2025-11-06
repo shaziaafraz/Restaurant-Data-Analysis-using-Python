@@ -29,7 +29,9 @@ Compared service offerings (online delivery & table booking) across price ranges
 🛠️ Tech Stack
 
 Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+
 Tool: Jupyter Notebook
 
 
